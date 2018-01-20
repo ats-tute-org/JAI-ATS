@@ -1,2 +1,2 @@
 # JAI-ATS
-Scritless automation testing framework for cross platform applications
+Scriptless automation test framework for cross platform applications
